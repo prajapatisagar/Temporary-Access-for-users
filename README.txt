@@ -8,11 +8,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin is usefull for provide temporary access to user. Also we can disable the user to temporary based.
+Plugin is useful for provide temporary access to user. Also we can disable the user to temporary based.
 
 == Description ==
 
-Plugin is usefull for provide temporary access to user. Also we can disable user to temporary based.
+Plugin is useful for provide temporary access to user. Also we can disable user to temporary based.
 
 Temporary Access for users plugins creates the temporary user. If the admin wants to create a temporary user for some limited period of time like give temporary login to a user then this plugin is helpful to you.
 
@@ -29,7 +29,7 @@ It is the easiest, simple and light weight plugin which also provides disable an
 == Screenshots ==
 
 1. Backend side interface for user profile
-2. Display error message if user is not aligible for use this account
+2. Display error message if user is not eligible for use this account
 
 == Changelog ==
 
